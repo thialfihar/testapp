@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH=~/sdk/cocos2d-x/lib/linux/Debug:$COCOS2DX_ROOT/CocosDenshion/third_party/fmod/lib64/api/lib/ proj.linux/bin/debug/engine
