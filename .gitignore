@@ -1,0 +1,5 @@
+bin
+obj
+gen
+libs
+proj.android/local.properties
